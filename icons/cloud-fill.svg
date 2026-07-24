@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Generator: Apple Native CoreSVG 341-->
+
+<svg
+   version="1.1"
+   viewBox="0 0 23.8713 16.0176"
+   id="svg1"
+   sodipodi:docname="cloud-fill.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="50.382083"
+     inkscape:cx="11.938768"
+     inkscape:cy="8.0087996"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="g1">
+    <rect
+       height="16.0176"
+       opacity="0"
+       width="23.8713"
+       x="0"
+       y="0"
+       id="rect1" />
+    <path
+       d="M5.08281 15.7726L17.9006 15.7726C21.2689 15.7726 23.8713 13.2191 23.8713 9.94765C23.8713 6.62734 21.2029 4.14336 17.6373 4.15137C16.3254 1.54238 13.924 0 10.9506 0C7.07949 0 3.8625 2.96016 3.48047 6.8543C1.48086 7.44687 0.144727 9.1457 0.144727 11.2459C0.144727 13.8967 2.13164 15.7726 5.08281 15.7726Z"
+       fill="white"
+       fill-opacity="0.85"
+       id="path1"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>

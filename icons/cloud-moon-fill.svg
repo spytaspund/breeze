@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Generator: Apple Native CoreSVG 341-->
+
+<svg
+   version="1.1"
+   viewBox="0 0 27.8793 19.123"
+   id="svg2"
+   sodipodi:docname="cloud-moon-fill.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="42.200493"
+     inkscape:cx="13.945335"
+     inkscape:cy="9.5614996"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g2">
+    <rect
+       height="19.123"
+       opacity="0"
+       width="27.8793"
+       x="0"
+       y="0"
+       id="rect1" />
+    <path
+       d="M21.0687 1.36562C21.0687 1.90429 20.4097 2.85761 20.4097 4.1828C20.4097 6.39276 21.8383 7.77597 24.2267 7.77597C25.6195 7.77597 26.3482 7.15448 26.8478 7.15448C27.1674 7.15448 27.3386 7.43671 27.3386 7.83339C27.3386 9.31512 25.7631 11.9932 22.5702 12.492C22.388 9.40467 20.0141 7.07174 16.8523 6.7246C16.5529 6.26015 16.2127 5.83254 15.8333 5.45004C16.4049 2.73915 18.7601 0.911163 20.4678 0.855264C20.8601 0.847256 21.0687 1.05761 21.0687 1.36562Z"
+       fill="white"
+       fill-opacity="0.85"
+       id="path1"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="M5.46054 17.7697L16.2941 17.7697C19.0851 17.7697 21.2371 15.6437 21.2371 12.8877C21.2371 10.1213 19.025 8.04256 16.0523 8.03182C14.9414 5.91111 12.9303 4.55018 10.4115 4.55018C7.15585 4.55018 4.42812 7.05076 4.1289 10.3129C2.43886 10.8056 1.35331 12.2383 1.35331 13.9992C1.35331 16.2359 3.02304 17.7697 5.46054 17.7697Z"
+       fill="white"
+       fill-opacity="0.85"
+       id="path2"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>

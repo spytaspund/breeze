@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Generator: Apple Native CoreSVG 341-->
+
+<svg
+   version="1.1"
+   viewBox="0 0 23.2461 22.6473"
+   id="svg3"
+   sodipodi:docname="cloud-fog-fill.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="35.633386"
+     inkscape:cx="11.63235"
+     inkscape:cy="11.32365"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     id="g3">
+    <rect
+       height="22.6473"
+       opacity="0"
+       width="23.2461"
+       x="0"
+       y="0"
+       id="rect1" />
+    <path
+       d="M18.3396 20.6682L5.73827 20.6682C5.36484 20.6682 5.07031 20.9476 5.07031 21.3238C5.07031 21.6982 5.36484 21.9857 5.73827 21.9857L18.3396 21.9857C18.7113 21.9857 19.0059 21.6982 19.0059 21.3238C19.0059 20.9476 18.7113 20.6682 18.3396 20.6682Z"
+       fill="white"
+       fill-opacity="0.85"
+       id="path1"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="M18.3396 17.3558L5.73827 17.3558C5.36484 17.3558 5.07031 17.6371 5.07031 18.0115C5.07031 18.3859 5.36484 18.6672 5.73827 18.6672L18.3396 18.6672C18.7113 18.6672 19.0059 18.3859 19.0059 18.0115C19.0059 17.6371 18.7113 17.3558 18.3396 17.3558Z"
+       fill="white"
+       fill-opacity="0.85"
+       id="path2"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       d="M5.36699 15.0762L17.5336 15.0762C20.8017 15.0762 23.2461 12.5918 23.2461 9.4996C23.2461 6.31582 20.6842 3.9543 17.3279 3.9543C16.1283 1.59492 13.8996 0 10.9402 0C7.19804 0 4.16191 2.8791 3.79394 6.51269C2 7.06191 0.634766 8.62324 0.634766 10.7277C0.634766 13.1476 2.40586 15.0762 5.36699 15.0762Z"
+       fill="white"
+       fill-opacity="0.85"
+       id="path3"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>

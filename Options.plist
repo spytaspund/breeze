@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>locationName</string>
+        <key>label</key>
+        <string>Название города</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string></string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>lat</string>
+        <key>label</key>
+        <string>Широта (Lat)</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>0.0000</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>lon</string>
+        <key>label</key>
+        <string>Долгота (Lon)</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>0.0000</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>apiKey</string>
+        <key>label</key>
+        <string>Yandex API Key</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string></string>
+    </dict>
+</array>
+</plist>
