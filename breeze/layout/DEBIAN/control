@@ -6,5 +6,6 @@ Description: Modern iOS widget for iWidgets (with yx weather support)
 Maintainer: spytaspund
 Author: spytaspund
 Section: Widgets
-Depends: com.spytaspund.breezed, com.iscDev.iwidgets
+Depends: com.spytaspund.breezed, com.eldwin.iwidgets
 Priority: optional
+
