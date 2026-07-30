@@ -1,4 +1,11 @@
 #!/bin/sh
+
+chown root:wheel /Library/LaunchDaemons/com.spytaspund.breezed.plist
+chmod 644 /Library/LaunchDaemons/com.spytaspund.breezed.plist
+
 ldid -S/usr/bin/entitlements.xml /usr/bin/breezed 2>/dev/null || true
 chmod 4755 /usr/bin/breezed
+
+launchctl load /Library/LaunchDaemons/com.spytaspund.breezed.plist 2>/dev/null || true
+
 exit 0
