@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>breeze</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="widget-container">
+        <div id="card" class="weather-card bg-night">
+            <div class="top-section">
+                <div class="location-row">
+                    <span id="loc-display" class="location-name">--</span>
+                    <img class="location-icon raw-icon" src="icons/location-fill.svg">
+                </div>
+                <div id="temp" class="current-temp">--&deg;</div>
+            </div>
+
+            <div class="bottom-section">
+                <div id="icon-wrapper">
+                    <div style="width:18px;height:18px;margin-bottom:-2px;"></div>
+                </div>
+                <div id="condition" class="condition">--</div>
+                <div id="forecast" class="high-low">
+                    <img class="arrow-icon raw-icon" src="icons/arrow-down.svg">--&deg;
+                    <img class="arrow-icon arrow-up raw-icon" src="icons/arrow-up.svg">--&deg;
+                </div>
+            </div>
+        </div>
+        <div id="widget-label" class="widget-label">breeze</div>
+    </div>
+
+    <script src="lang/ru.js"></script>
+    <script src="lang/en.js"></script>
+    
+    <script src="script.js"></script>
+</body>
+</html>

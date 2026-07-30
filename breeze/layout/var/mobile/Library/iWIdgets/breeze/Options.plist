@@ -4,43 +4,43 @@
 <array>
     <dict>
         <key>name</key>
-        <string>locationName</string>
-        <key>label</key>
-        <string>Название города</string>
-        <key>type</key>
-        <string>edit</string>
-        <key>default</key>
-        <string></string>
-    </dict>
-    <dict>
-        <key>name</key>
-        <string>lat</string>
-        <key>label</key>
-        <string>Широта (Lat)</string>
-        <key>type</key>
-        <string>edit</string>
-        <key>default</key>
-        <string>0.0000</string>
-    </dict>
-    <dict>
-        <key>name</key>
-        <string>lon</string>
-        <key>label</key>
-        <string>Долгота (Lon)</string>
-        <key>type</key>
-        <string>edit</string>
-        <key>default</key>
-        <string>0.0000</string>
-    </dict>
-    <dict>
-        <key>name</key>
         <string>apiKey</string>
         <key>label</key>
-        <string>Yandex API Key</string>
+        <string>Ключ API</string>
         <key>type</key>
         <string>edit</string>
         <key>default</key>
-        <string></string>
+        <string>default</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>useIPLocation</string>
+        <key>label</key>
+        <string>Местоположение по IP</string>
+        <key>type</key>
+        <string>switch</string>
+        <key>default</key>
+        <true/>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>LANGUAGE</string>
+        <key>label</key>
+        <string>Язык</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>ru_RU</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>WIDGET_TITLE</string>
+        <key>label</key>
+        <string>Название виджета</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>default</key>
+        <string>breeze</string>
     </dict>
 </array>
 </plist>

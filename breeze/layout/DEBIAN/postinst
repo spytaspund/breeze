@@ -1,0 +1,6 @@
+#!/bin/sh
+
+chown -R mobile:mobile /var/mobile/Library/iWidgets/breeze
+chmod -R 755 /var/mobile/Library/iWidgets/breeze
+
+exit 0

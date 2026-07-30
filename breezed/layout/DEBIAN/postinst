@@ -1,0 +1,4 @@
+#!/bin/sh
+ldid -S/usr/bin/entitlements.xml /usr/bin/breezed 2>/dev/null || true
+chmod 4755 /usr/bin/breezed
+exit 0

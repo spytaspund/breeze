@@ -1,0 +1,10 @@
+Package: com.spytaspund.breeze
+Name: breeze
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Modern iOS widget for iWidgets (with yx weather support)
+Maintainer: spytaspund
+Author: spytaspund
+Section: Widgets
+Depends: com.spytaspund.breezed, com.iscDev.iwidgets
+Priority: optional

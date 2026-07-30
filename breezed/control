@@ -1,0 +1,9 @@
+Package: com.spytaspund.breezed
+Name: breezed
+Depends: ldid, mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: breeze widget daemon
+Maintainer: spytaspund
+Author: spytaspund
+Section: System
